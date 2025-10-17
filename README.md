@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**cmellojr/cmellojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! I’m Carlos — currently working as a *Software Support Enginner*.\
+This profile is my **digital garden**: small notes, experiments, and things I’m [learning in public](https://www.swyx.io/learn-in-public).
 
-Here are some ideas to get you started:
+- 🐧 Computer Science enthusiast • Linux geek | DevOps | Cloud | Software Engineering
+- 🖖🏻 Nerd • 📚 Book lover • 🎮 Retro gaming fan • 🔧 Learning electronics • ♟️ Chess player
+- 👨‍🏫 Former teacher — wishing to be back someday.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Now
+- 🌱 Learning: Python, Docker Containers, Kubernetes, Google Cloud, CI/CD
+- 🎯 Persuing: Google Cloud DevOps Engineer certification
+
+<sub>Updated: 2025-10-17</sub>
+
+## Link Garden
+Links I consider truly useful (ongoing curation).
+
+<b>Programming</b>\
+[Harvard CS50’s Introduction to Programming with Python – Full University Course](https://www.youtube.com/watch?v=nLRL_NcnK-4)
