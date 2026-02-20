@@ -4,8 +4,9 @@ Welcome! I’m Carlos — currently working as *Software Support Engineer*.\
 This profile is my **digital garden**: small notes, experiments, and things I’m [learning in public](https://www.swyx.io/learn-in-public).
 
 - 🐧 Computer Science enthusiast • Linux geek | DevOps | Cloud | Software Engineering
-- 🖖🏻 Nerd • 📚 Book lover • 🎮 Retro gaming fan • 🔧 Learning electronics • ♟️ Chess player
-- 👨‍🏫 Former teacher — wishing to be back someday.
+- 🖖🏻 Nerd • 📚 Book lover • 🎮 Retro gaming fan • 🔧 Learning electronics
+- ♟️ Chess player • 🎌 Shogi and 🀄 Xiangqi learner • 🥋 Novice Judoka
+- 👨‍🏫 Former teacher — wishing to be back someday
 
 ## Now
 - 🌱 Learning: Python, Docker Containers, Kubernetes, Google Cloud, CI/CD
