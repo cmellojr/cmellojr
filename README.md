@@ -5,14 +5,14 @@ This profile is my **digital garden**: small notes, experiments, and things I’
 
 - 🐧 Computer Science enthusiast • Linux geek | DevOps | Cloud | Software Engineering
 - 🖖🏻 Nerd • 📚 Book lover • 🎮 Retro gaming fan • 🔧 Learning electronics
-- ♟️ Chess player • 🎌 Shogi and 🀄 Xiangqi learner • 🥋 Novice Judoka
+- ♟️ Chess player • ⛩️ Shogi and 🀄 Xiangqi learner • 🥋 Novice Judoka
 - 👨‍🏫 Former teacher — wishing to be back someday
 
 ## Now
-- 🌱 Learning: Python, Docker Containers, Kubernetes, Google Cloud, CI/CD
+- 🌱 Learning: Python, Golang, Docker Containers, Kubernetes, Google Cloud, CI/CD
 - 🎯 Persuing: Google Cloud DevOps Engineer certification
 
-<sub>Updated: 2025-10-28</sub>
+<sub>Updated: 2026-03-01</sub>
 
 ## Link Garden
 Links I consider truly useful (ongoing curation).
