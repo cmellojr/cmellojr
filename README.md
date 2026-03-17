@@ -3,7 +3,7 @@
 Welcome! I’m Carlos — currently working as *Software Support Engineer*.\
 This profile is my **digital garden**: small notes, experiments, and things I’m [learning in public](https://www.swyx.io/learn-in-public).
 
-- 🐧 Computer Science enthusiast • Linux geek | DevOps | Cloud | Software Engineering
+- 🐧 Computer Science enthusiast • Linux geek | DevOps | Cloud | Software Engineering | AI
 - 🖖🏻 Nerd • 📚 Book lover • 🎮 Retro gaming fan • 🔧 Learning electronics
 - ♟️ Chess player • ⛩️ Shogi and 🀄 Xiangqi learner • 🥋 Novice Judoka
 - 👨‍🏫 Former teacher — wishing to be back someday
@@ -12,7 +12,7 @@ This profile is my **digital garden**: small notes, experiments, and things I’
 - 🌱 Learning: Python, Golang, Docker Containers, Kubernetes, Google Cloud, CI/CD
 - 🎯 Persuing: Google Cloud DevOps Engineer certification
 
-<sub>Updated: 2026-03-01</sub>
+<sub>Updated: 2026-03-17</sub>
 
 ## Link Garden
 Links I consider truly useful (ongoing curation).
