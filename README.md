@@ -12,7 +12,7 @@ This profile is my **digital garden**: small notes, experiments, and things I’
 - 🌱 Learning: Python, Golang, Docker Containers, Kubernetes, Google Cloud, CI/CD
 - 🎯 Persuing: Google Cloud DevOps Engineer certification
 
-<sub>Updated: 2026-03-17</sub>
+<sub>Updated: 2026-04-09</sub>
 
 ## Link Garden
 Links I consider truly useful (ongoing curation).
@@ -27,4 +27,7 @@ Links I consider truly useful (ongoing curation).
 [Google Cloud Digital Leader Certification Course - Pass the Exam!](https://youtu.be/cbcd6-m8sHg?si=Gm-ALYnUtWlJwDsc)    
 [Google Cloud Associate Cloud Engineer Course [2025] - Pass the Exam!](https://youtu.be/OlAmyf8_4O4?si=yTNEDwl1B3k3Jkt0)  
 [Professional Cloud Architect Certification Course – Pass the Exam!](https://youtu.be/u43gJJrVa1I?si=eI6qCRVEZf9QfFfP)
+
+<b>Very interesting blogs</b>\
+[danicat.dev](https://danicat.dev/)
 
