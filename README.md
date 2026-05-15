@@ -9,10 +9,11 @@ This profile is my **digital garden**: small notes, experiments, and things I’
 - 👨‍🏫 Former teacher — wishing to be back someday
 
 ## Now
-- 🌱 Learning: Python, Golang, Docker Containers, Kubernetes, Google Cloud, CI/CD
-- 🎯 Persuing: Google Cloud DevOps Engineer certification
+- 🌱 Learning: Python, Golang, Docker Containers, Kubernetes, Google Cloud, CI/CD and AI
+- 🎯 Persuing: Google Cloud DevOps Engineer certification and Google Cloud Generative AI Leader Certification  
 
-<sub>Updated: 2026-05-14</sub>
+
+<sub>Updated: 2026-05-15</sub>
 
 ## Link Garden
 Links I consider truly useful (ongoing curation).
@@ -28,8 +29,13 @@ Links I consider truly useful (ongoing curation).
 [Google Cloud Associate Cloud Engineer Course [2025] - Pass the Exam!](https://youtu.be/OlAmyf8_4O4?si=yTNEDwl1B3k3Jkt0)  
 [Professional Cloud Architect Certification Course – Pass the Exam!](https://youtu.be/u43gJJrVa1I?si=eI6qCRVEZf9QfFfP)
 
+<b>AI</b>\
+[Gemini CLI Essentials – Full Course](https://www.youtube.com/watch?v=XKOR4h3CrwE)  
+[Google Generative AI Leader Certification Course – Pass the Exam!](https://www.youtube.com/watch?v=30diF8dKpAY)
+
 <b>Very interesting blogs</b>\
-[danicat.dev](https://danicat.dev/)
+[danicat.dev](https://danicat.dev/)  
+[Addy Osmani](https://addyosmani.com/)
 
 <b>Books</b>\
 [Software Engineering at Google](https://abseil.io/resources/swe-book)  
