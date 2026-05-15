@@ -12,7 +12,7 @@ This profile is my **digital garden**: small notes, experiments, and things I’
 - 🌱 Learning: Python, Golang, Docker Containers, Kubernetes, Google Cloud, CI/CD
 - 🎯 Persuing: Google Cloud DevOps Engineer certification
 
-<sub>Updated: 2026-04-09</sub>
+<sub>Updated: 2026-05-14</sub>
 
 ## Link Garden
 Links I consider truly useful (ongoing curation).
@@ -30,4 +30,8 @@ Links I consider truly useful (ongoing curation).
 
 <b>Very interesting blogs</b>\
 [danicat.dev](https://danicat.dev/)
+
+<b>Books</b>\
+[Software Engineering at Google](https://abseil.io/resources/swe-book)  
+[Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
 
