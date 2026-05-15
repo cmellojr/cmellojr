@@ -22,6 +22,7 @@ Links I consider truly useful (ongoing curation).
 [Harvard CS50’s Introduction to Programming with Python – Full University Course](https://www.youtube.com/watch?v=nLRL_NcnK-4)  
 [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/)  
 [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)  
+[Go Style](https://google.github.io/styleguide/go/)  
 [Shell Style Guide](https://google.github.io/styleguide/shellguide.html)  
 
 <b>Google Cloud</b>\
