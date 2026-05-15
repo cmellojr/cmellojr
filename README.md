@@ -10,7 +10,7 @@ This profile is my **digital garden**: small notes, experiments, and things I’
 
 ## Now
 - 🌱 Learning: Python, Golang, Docker Containers, Kubernetes, Google Cloud, CI/CD and AI
-- 🎯 Persuing: Google Cloud DevOps Engineer certification and Google Cloud Generative AI Leader Certification  
+- 🎯 Persuing: Google Cloud DevOps Engineer certification and Google Cloud Generative AI Leader certification  
 
 
 <sub>Updated: 2026-05-15</sub>
