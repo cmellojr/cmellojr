@@ -9,11 +9,11 @@ This profile is my **digital garden**: small notes, experiments, and things I’
 - 👨‍🏫 Former teacher — wishing to be back someday
 
 ## Now
-- 🌱 Learning: Python, Golang, Docker Containers, Kubernetes, Google Cloud, CI/CD and AI
+- 🌱 Learning: Python, Golang, Rust, Docker Containers, Kubernetes, Google Cloud, CI/CD and AI
 - 🎯 Persuing: Google Cloud DevOps Engineer certification and Google Cloud Generative AI Leader certification  
 
 
-<sub>Updated: 2026-05-15</sub>
+<sub>Updated: 2026-07-15</sub>
 
 ## Link Garden
 Links I consider truly useful (ongoing curation).
