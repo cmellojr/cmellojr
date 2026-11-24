@@ -5,7 +5,7 @@ This profile is my **digital garden**: small notes, experiments, and things I’
 
 - 🐧 Computer Science enthusiast • Linux geek | DevOps | Cloud | Software Engineering | AI
 - 🖖🏻 Nerd • 📚 Book lover • 🎮 Retro gaming fan • 🔧 Learning electronics
-- ♟️ Chess player • ⛩️ Shogi and 🀄 Xiangqi learner • 🥋 Novice Judoka
+- ♟️ Chess player • ⛩️ Shogi and 🀄 Xiangqi learner • 🥋 Blue Belt Judoka (8th Kyū)
 - 👨‍🏫 Former teacher — wishing to be back someday
 
 ## Now
@@ -13,7 +13,7 @@ This profile is my **digital garden**: small notes, experiments, and things I’
 - 🎯 Persuing: Google Cloud DevOps Engineer certification and Google Cloud Generative AI Leader certification  
 
 
-<sub>Updated: 2026-07-15</sub>
+<sub>Updated: 2026-11-24</sub>
 
 ## Link Garden
 Links I consider truly useful (ongoing curation).
